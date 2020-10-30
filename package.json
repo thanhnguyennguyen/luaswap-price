@@ -1,6 +1,6 @@
 {
     "name": "luaswap-price",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "get token price from luawap",
     "main": "index.js",
     "scripts": {
@@ -17,9 +17,9 @@
     "author": "NguyenNguyen (nguyenbk92@gmail.com)",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/thanhnguyennguyen/uniswap-price/issues"
+        "url": "https://github.com/thanhnguyennguyen/luaswap-price/issues"
     },
-    "homepage": "https://github.com/thanhnguyennguyen/uniswap-price#readme",
+    "homepage": "https://github.com/thanhnguyennguyen/luaswap-price#readme",
     "dependencies": {
         "@ethersproject/address": "^5.0.4",
         "@ethersproject/contracts": "^5.0.4",

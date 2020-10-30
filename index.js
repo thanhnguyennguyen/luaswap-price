@@ -7,7 +7,7 @@
      Trade,
      TokenAmount,
      TradeType
- } = require('@uniswap/sdk')
+ } = require('@luaswap/sdk')
  const {
      getNetwork
  } = require('@ethersproject/networks')
